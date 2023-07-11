@@ -52,7 +52,7 @@ I set p to 6 based on AIC results:
 
 #### The model is ARIMA(6,0,1)
 ## Evaluating The ARIMA Model
-I seprated the dataset into train and test, and i used test dataset for prediction 
+I seperated the dataset into train and test, and i used test dataset for prediction 
 evaluate the model with *Mean Absolute Percent Error(MAPE)* and
 *Root Mean Squared Error(RMSE)*.
 
