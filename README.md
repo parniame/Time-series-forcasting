@@ -56,8 +56,8 @@ I seprated the dataset into train and test, and i used test dataset for predicti
 evaluate the model with *Mean Absolute Percent Error(MAPE)* and
 *Root Mean Squared Error(RMSE)*.
 
-- MAPE = 3.14%
-- (RMSE) = 75.5
+- MAPE = 1.75%
+- (RMSE) = 49.69
 ## Residuals Plot
 
 ![Residuals Plot](https://github.com/parniame/Time-series-forcasting/blob/main/Residuals.png?raw=true)
